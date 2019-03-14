@@ -12,6 +12,7 @@
 		F75438242236B36000400E19 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F75438222236B36000400E19 /* Main.storyboard */; };
 		F75438262236B36000400E19 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F75438252236B36000400E19 /* Assets.xcassets */; };
 		F75438292236B36000400E19 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F75438272236B36000400E19 /* LaunchScreen.storyboard */; };
+		F75438312236B44A00400E19 /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F75438302236B44A00400E19 /* ResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		F75438252236B36000400E19 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F75438282236B36000400E19 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F754382A2236B36000400E19 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F75438302236B44A00400E19 /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				F75438202236B36000400E19 /* ViewController.swift */,
 				F75438222236B36000400E19 /* Main.storyboard */,
 				F75438252236B36000400E19 /* Assets.xcassets */,
+				F75438302236B44A00400E19 /* ResultViewController.swift */,
 				F75438272236B36000400E19 /* LaunchScreen.storyboard */,
 				F754382A2236B36000400E19 /* Info.plist */,
 			);
@@ -137,6 +140,7 @@
 			files = (
 				F75438212236B36000400E19 /* ViewController.swift in Sources */,
 				F754381F2236B36000400E19 /* AppDelegate.swift in Sources */,
+				F75438312236B44A00400E19 /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
